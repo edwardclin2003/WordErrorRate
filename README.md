@@ -12,6 +12,6 @@ perl WER.pl hyp.txt ref.txt
 Explanation:
 Hyp. sentence:      "How tall are you"
 Reference sentence: "How are you"
-'tall' is the inserted error word so the # of errors is 33.3%.
+'tall' is the inserted error word so the # of errors is 1 and the WER is 33.3%.
 
 
